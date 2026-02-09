@@ -1,1 +1,0 @@
-I learned the basic layout of an html project-using semantic tags,how to stucture an navigation bar using lists and links,the different application of headers and paragraphs,how to comment.
